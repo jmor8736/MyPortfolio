@@ -1,0 +1,1 @@
+This file contains two files for simulating the flight of a Van's RV-7 aircraft in the climb/descent and cruise portions of flight. These are two degrees of freedom, state based simulations meant to estimate flight time and fuel consumption. A third script file is included, testing the simulation against flight data from the Cal Poly RV-7

@@ -1,1 +1,1 @@
-This is a test of three tools created to estimate aerodynamic forces on a biconvex airfoil in a M = 2.13 freestream. The three methods used in the tools are Buseman's method, a Shock Wave and Expansion Theory based method, and a 
+This is a test of three tools created to estimate aerodynamic forces on a biconvex airfoil in a M = 2.13 freestream. The three methods used in the tools are Buseman's method, a Linear Potential a Shock Wave and Expansion Theory based method, and a 

@@ -1,6 +1,5 @@
 # Jackson Morgan
-# Biomimetic Algorithms
-# Task 1 - Traveling Sales-Ant Problem
+# Ant Colony Optimization Algorithm tested on Traveling Salesperson Problem
 
 import ACO
 import numpy as np

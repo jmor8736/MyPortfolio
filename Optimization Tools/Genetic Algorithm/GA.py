@@ -1,4 +1,5 @@
-
+# Jackson Morgan
+# Genetic Algorithm Classes and Functions
 
 import numpy as np
 import random

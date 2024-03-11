@@ -1,0 +1,1 @@
+This folder contains a class and function file to build a Genetic Optimization algorithm, named GA.py. This algorithm is tested against the same knapsack problem as the MBFA in the GA_Validation.py file. 

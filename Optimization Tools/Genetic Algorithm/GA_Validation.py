@@ -1,5 +1,5 @@
 # Jackson Morgan
-# Genetic Algorithm Classes and Functions
+# Genetic Algorithm Test on Knapsack Problem
 
 import GA
 import random

@@ -1,4 +1,5 @@
-
+# Jackson Morgan
+# Genetic Algorithm Classes and Functions
 
 import GA
 import random

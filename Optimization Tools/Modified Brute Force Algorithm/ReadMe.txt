@@ -1,1 +1,1 @@
-This folder
+This folder contains a file with classes and functions to build a modified brute force optimization algorithm callsed MBFA.py. This algorithm is tested on a generic knapsack problem in the file MBFA_Validation.py. The validation file can be run as long as both files are downloaded in the same folder.

@@ -1,0 +1,1 @@
+This folder contains two biomimetic algorithms and scripts to test them. First, and Ant Colony Optimization algorithm is written in ACO.py and tested on an example travelling salesperson problem in ACO_Validation.py. 

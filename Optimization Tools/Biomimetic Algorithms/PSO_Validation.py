@@ -1,5 +1,5 @@
 # Jackson Morgan
-# Biomimetic Task 2 - Particle Swarm Optimization
+# Particle Swarm Optimization Algorithm Test on Ackley Function
 
 import PSO
 import random
